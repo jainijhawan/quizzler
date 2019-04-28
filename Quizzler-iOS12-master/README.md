@@ -3,6 +3,7 @@
 
 This a Quiz App which is build on the MVC (Model View Controller) architecture. This app gives points according to the user's performance and it has just true and false answers to every question. 
 
+## Screenshots
 
 | Screenshot 1 | Screenshot 2 |
 |:----------------------:|:------------:|
